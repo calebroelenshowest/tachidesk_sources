@@ -1,2 +1,19 @@
 {
+  "main":
+  {
+    "image": "",
+    "name:" ""
+  },
+  "page": 
+  {
+    "image": [],
+    "title": [],
+    "authors": [],
+    "status": [],
+    "filter_url": [],
+    "chap_list": [],
+    "chap_images": [],
+    "chap_blacklist": []
+  },
+  "filters": {"allowed": [], "experimental": [], "disallowed": []}
 }
